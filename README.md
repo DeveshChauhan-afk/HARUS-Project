@@ -1,5 +1,3 @@
-<img width="1286" height="741" alt="image" src="https://github.com/user-attachments/assets/ca9ef2a4-e495-4299-aea1-fcecadbb0892" /># HARUS-Project
-
 🧠 Human Activity Recognition using Machine Learning & TensorFlow
 
 📌 Project Overview
