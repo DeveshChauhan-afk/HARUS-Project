@@ -1,4 +1,4 @@
-# HARUS-Project
+<img width="1286" height="741" alt="image" src="https://github.com/user-attachments/assets/ca9ef2a4-e495-4299-aea1-fcecadbb0892" /># HARUS-Project
 
 🧠 Human Activity Recognition using Machine Learning & TensorFlow
 
@@ -72,6 +72,27 @@ Neural Network	94.03%
 Random Forest	93.28%
 KNN	88.02%
 
+
+📊 Visualizations
+
+### PCA Visualization
+![PCA](PCA.jpg)
+
+The PCA visualization shows clear clustering of activities, indicating that the dataset is highly separable.
+
+---
+
+### Training vs Validation Accuracy
+![Accuracy](epoch_accuracy.jpg)
+
+The model shows stable convergence with training accuracy reaching ~98% and validation accuracy ~95.6%, indicating good generalization.
+
+---
+
+### Model Comparison
+![Model Accuracy](models_accuracy.jpg)
+
+Logistic Regression and SVM outperform other models, showing that classical approaches work effectively on engineered features.
 
 📊 Key Insights
 Classical models (LR, SVM) performed slightly better than deep learning.
